@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="plant​?on.png" width="2665" height="776">
+  <SubTexture name="planton0001" x="0" y="0"  width="479" height="724" frameX="-333" frameY="-425" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="planton0002" x="479" y="0"  width="458" height="763" frameX="-353" frameY="-386" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="planton0003" x="937" y="0"  width="432" height="776" frameX="-369" frameY="-372" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="planton0004" x="1369" y="0"  width="432" height="776" frameX="-369" frameY="-372" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="planton0005" x="1801" y="0"  width="432" height="776" frameX="-369" frameY="-372" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="planton0006" x="2233" y="0"  width="432" height="776" frameX="-369" frameY="-372" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>
