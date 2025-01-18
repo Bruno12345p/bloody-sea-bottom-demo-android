@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bubbletrans.png" width="3457" height="100">
+  <SubTexture name="bubbletrans0002" x="0" y="0"  width="69" height="22" frameX="-85" frameY="-78" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00017" x="69" y="0"  width="27" height="27" frameX="-153" frameY="-53" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00018" x="96" y="0"  width="32" height="33" frameX="-146" frameY="-40" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00015" x="128" y="0"  width="131" height="41" frameX="-69" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00024" x="259" y="0"  width="20" height="42" frameX="-153" frameY="-6" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00014" x="279" y="0"  width="199" height="52" frameX="-1" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00023" x="478" y="0"  width="31" height="68" frameX="-143" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0003" x="509" y="0"  width="193" height="68" frameX="-7" frameY="-32" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00013" x="702" y="0"  width="195" height="72" frameX="-5" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00020" x="897" y="0"  width="49" height="73" frameX="-139" frameY="-13" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00021" x="946" y="0"  width="39" height="73" frameX="-143" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00022" x="985" y="0"  width="33" height="75" frameX="-145" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00019" x="1018" y="0"  width="53" height="78" frameX="-135" frameY="-7" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0004" x="1071" y="0"  width="193" height="86" frameX="-7" frameY="-14" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0001" x="1264" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00010" x="1464" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00011" x="1664" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00012" x="1864" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00016" x="2064" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans00025" x="2264" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0005" x="2464" y="0"  width="193" height="100" frameX="-7" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0006" x="2657" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0007" x="2857" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0008" x="3057" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+  <SubTexture name="bubbletrans0009" x="3257" y="0"  width="200" height="100" frameX="-0" frameY="-0" frameWidth="200" frameHeight="100"/>
+</TextureAtlas>
