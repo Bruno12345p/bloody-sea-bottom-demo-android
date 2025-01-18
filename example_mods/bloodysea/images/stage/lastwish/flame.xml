@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="flame.png" width="2048" height="1594">
+  <SubTexture name="flame0001" x="0" y="0"  width="1024" height="526" frameX="-0" frameY="-102" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="flame0003" x="0" y="526"  width="1024" height="543" frameX="-0" frameY="-85" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="flame0002" x="1024" y="0"  width="1024" height="526" frameX="-0" frameY="-102" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="flame0004" x="0" y="1069"  width="1024" height="525" frameX="-0" frameY="-103" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="flame0005" x="1024" y="526"  width="1024" height="521" frameX="-0" frameY="-107" frameWidth="1024" frameHeight="768"/>
+  <SubTexture name="flame0006" x="1024" y="0"  width="1024" height="526" frameX="-0" frameY="-102" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>
