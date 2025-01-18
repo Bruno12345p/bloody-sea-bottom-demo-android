@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ohwait.png" width="5086" height="1388">
+  <SubTexture name="ohwait00016" x="0" y="0"  width="585" height="677" frameX="-249" frameY="-430" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00015" x="585" y="0"  width="549" height="681" frameX="-246" frameY="-436" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0001" x="1134" y="0"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00010" x="1694" y="0"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00011" x="2254" y="0"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00012" x="2814" y="0"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00013" x="3374" y="0"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00014" x="3934" y="0"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait00017" x="4494" y="0"  width="592" height="694" frameX="-234" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0002" x="0" y="677"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0003" x="560" y="681"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0004" x="1120" y="694"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0005" x="1680" y="694"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0006" x="2240" y="694"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0007" x="2800" y="694"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0008" x="3360" y="694"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="ohwait0009" x="3920" y="694"  width="560" height="694" frameX="-242" frameY="-424" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>

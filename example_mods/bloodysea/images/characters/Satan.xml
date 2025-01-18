@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Satan.png" width="5437" height="4577">
+  <SubTexture name="Satan_down0009" x="0" y="0"  width="497" height="564" frameX="-279" frameY="-514" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0006" x="497" y="0"  width="530" height="566" frameX="-273" frameY="-512" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0005" x="1027" y="0"  width="534" height="569" frameX="-264" frameY="-509" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0007" x="1561" y="0"  width="524" height="570" frameX="-279" frameY="-508" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0004" x="2085" y="0"  width="531" height="572" frameX="-260" frameY="-506" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0008" x="2616" y="0"  width="532" height="574" frameX="-268" frameY="-504" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0002" x="3148" y="0"  width="530" height="575" frameX="-259" frameY="-503" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0003" x="3678" y="0"  width="531" height="575" frameX="-258" frameY="-503" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0009" x="4209" y="0"  width="529" height="575" frameX="-265" frameY="-503" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down00010" x="4738" y="0"  width="524" height="576" frameX="-264" frameY="-502" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_idle0001" x="0" y="566"  width="524" height="576" frameX="-264" frameY="-502" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left00010" x="524" y="569"  width="524" height="576" frameX="-264" frameY="-502" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right00010" x="1048" y="570"  width="524" height="576" frameX="-264" frameY="-502" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up00010" x="1572" y="572"  width="524" height="576" frameX="-264" frameY="-502" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0008" x="2096" y="572"  width="465" height="588" frameX="-285" frameY="-498" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0005" x="2561" y="574"  width="472" height="590" frameX="-278" frameY="-496" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0006" x="3033" y="575"  width="472" height="590" frameX="-278" frameY="-496" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0007" x="3505" y="575"  width="472" height="590" frameX="-278" frameY="-496" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0009" x="3977" y="575"  width="535" height="590" frameX="-256" frameY="-489" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0004" x="4512" y="576"  width="472" height="593" frameX="-278" frameY="-497" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0001" x="4984" y="576"  width="453" height="596" frameX="-297" frameY="-484" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0002" x="0" y="1142"  width="468" height="606" frameX="-282" frameY="-509" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0009" x="468" y="1145"  width="558" height="604" frameX="-283" frameY="-474" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_down0003" x="1026" y="1146"  width="473" height="609" frameX="-277" frameY="-500" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0009" x="1499" y="1148"  width="549" height="621" frameX="-261" frameY="-458" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0001" x="2048" y="1164"  width="656" height="611" frameX="-89" frameY="-469" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0008" x="2704" y="1165"  width="567" height="627" frameX="-187" frameY="-453" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0002" x="3271" y="1165"  width="614" height="629" frameX="-131" frameY="-451" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0003" x="3885" y="1165"  width="589" height="638" frameX="-156" frameY="-442" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0004" x="4474" y="1172"  width="582" height="643" frameX="-163" frameY="-436" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0005" x="0" y="1749"  width="583" height="644" frameX="-162" frameY="-435" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0006" x="583" y="1755"  width="583" height="644" frameX="-162" frameY="-435" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_left0007" x="1166" y="1769"  width="583" height="644" frameX="-162" frameY="-435" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0008" x="1749" y="1775"  width="560" height="682" frameX="-424" frameY="-397" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0005" x="2309" y="1792"  width="587" height="711" frameX="-424" frameY="-368" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0006" x="2896" y="1794"  width="588" height="711" frameX="-424" frameY="-368" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0007" x="3484" y="1803"  width="588" height="711" frameX="-424" frameY="-368" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0004" x="4072" y="1815"  width="581" height="712" frameX="-424" frameY="-367" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0003" x="4653" y="1815"  width="586" height="713" frameX="-424" frameY="-366" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0002" x="0" y="2399"  width="605" height="724" frameX="-424" frameY="-355" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_right0001" x="605" y="2413"  width="638" height="752" frameX="-424" frameY="-327" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0008" x="1243" y="2457"  width="808" height="1034" frameX="-161" frameY="-45" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0004" x="2051" y="2503"  width="806" height="1035" frameX="-163" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0005" x="2857" y="2514"  width="807" height="1035" frameX="-162" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0006" x="3664" y="2527"  width="807" height="1035" frameX="-162" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0007" x="4471" y="2528"  width="807" height="1035" frameX="-162" frameY="-44" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0003" x="0" y="3165"  width="804" height="1036" frameX="-165" frameY="-43" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0001" x="804" y="3491"  width="818" height="1037" frameX="-167" frameY="-42" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satan_up0002" x="1622" y="3538"  width="807" height="1039" frameX="-164" frameY="-40" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>

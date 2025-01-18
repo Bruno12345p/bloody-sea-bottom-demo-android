@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="beef.png" width="5291" height="1883">
+  <SubTexture name="beef_tweak0001" x="0" y="0"  width="564" height="546" frameX="-177" frameY="-379" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_tweak0002" x="564" y="0"  width="601" height="546" frameX="-177" frameY="-379" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_tweak0003" x="1165" y="0"  width="595" height="546" frameX="-177" frameY="-379" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_tweak0004" x="1760" y="0"  width="564" height="546" frameX="-177" frameY="-379" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_tweak0006" x="2324" y="0"  width="564" height="546" frameX="-177" frameY="-379" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_down0001" x="2888" y="0"  width="533" height="571" frameX="-148" frameY="-340" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_tweak0005" x="3421" y="0"  width="564" height="572" frameX="-177" frameY="-353" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_idle0002" x="3985" y="0"  width="562" height="576" frameX="-219" frameY="-323" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_idle0003" x="4547" y="0"  width="560" height="584" frameX="-223" frameY="-315" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_idle0001" x="0" y="546"  width="564" height="587" frameX="-231" frameY="-312" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_idle0005" x="564" y="546"  width="564" height="587" frameX="-231" frameY="-312" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_idle0004" x="1128" y="546"  width="563" height="589" frameX="-229" frameY="-310" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_left0001" x="1691" y="546"  width="454" height="589" frameX="-133" frameY="-361" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_down0002" x="2145" y="546"  width="545" height="591" frameX="-173" frameY="-320" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_left0002" x="2690" y="571"  width="462" height="593" frameX="-144" frameY="-357" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_down0003" x="3152" y="572"  width="551" height="594" frameX="-191" frameY="-317" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_right0003" x="3703" y="576"  width="467" height="617" frameX="-309" frameY="-284" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_up0003" x="4170" y="584"  width="565" height="633" frameX="-237" frameY="-275" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_right0001" x="4735" y="584"  width="556" height="641" frameX="-325" frameY="-259" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_left0003" x="0" y="1133"  width="462" height="653" frameX="-227" frameY="-297" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_right0002" x="462" y="1133"  width="527" height="664" frameX="-325" frameY="-236" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_up0001" x="989" y="1135"  width="557" height="688" frameX="-251" frameY="-220" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beef_up0002" x="1546" y="1135"  width="552" height="693" frameX="-236" frameY="-214" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="beefmiss" x="2098" y="1137"  width="516" height="746" frameX="-216" frameY="-168" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="cassie2.png" width="4202" height="674">
+  <SubTexture name="cassie2_down0001" x="0" y="0"  width="298" height="644" frameX="-505" frameY="-402" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_right0001" x="298" y="0"  width="298" height="645" frameX="-523" frameY="-401" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_right0002" x="596" y="0"  width="296" height="648" frameX="-516" frameY="-398" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_down0002" x="892" y="0"  width="298" height="649" frameX="-509" frameY="-397" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_leff0001" x="1190" y="0"  width="309" height="655" frameX="-476" frameY="-391" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_leff0002" x="1499" y="0"  width="302" height="655" frameX="-485" frameY="-391" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_ani0001" x="1801" y="0"  width="300" height="665" frameX="-494" frameY="-381" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_ani0002" x="2101" y="0"  width="300" height="665" frameX="-494" frameY="-381" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_ani0003" x="2401" y="0"  width="300" height="665" frameX="-494" frameY="-381" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_ani0004" x="2701" y="0"  width="300" height="665" frameX="-494" frameY="-381" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_ani0005" x="3001" y="0"  width="300" height="665" frameX="-494" frameY="-381" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_idle" x="3301" y="0"  width="300" height="665" frameX="-494" frameY="-381" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_up0002" x="3601" y="0"  width="300" height="669" frameX="-517" frameY="-377" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="cassie2_up0001" x="3901" y="0"  width="301" height="674" frameX="-517" frameY="-372" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>
