@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="spengnew.png" width="4924" height="387">
+  <SubTexture name="speng_idle0002" x="0" y="0"  width="239" height="307" frameX="-377" frameY="-259" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_idle0003" x="239" y="0"  width="234" height="318" frameX="-387" frameY="-247" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_idle0001" x="473" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_right0001" x="708" y="0"  width="238" height="320" frameX="-484" frameY="-248" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0001" x="946" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0002" x="1181" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0003" x="1416" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0004" x="1651" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0005" x="1886" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0007" x="2121" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0008" x="2356" y="0"  width="235" height="320" frameX="-375" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_idle0004" x="2591" y="0"  width="235" height="321" frameX="-382" frameY="-245" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_idle0005" x="2826" y="0"  width="234" height="323" frameX="-379" frameY="-243" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_right0002" x="3060" y="0"  width="235" height="324" frameX="-480" frameY="-244" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_wtf0006" x="3295" y="0"  width="236" height="329" frameX="-376" frameY="-234" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_left0001" x="3531" y="0"  width="231" height="335" frameX="-382" frameY="-243" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_left0002" x="3762" y="0"  width="223" height="337" frameX="-390" frameY="-241" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_up0002" x="3985" y="0"  width="220" height="371" frameX="-378" frameY="-189" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_down0001" x="4205" y="0"  width="253" height="375" frameX="-414" frameY="-193" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_up0001" x="4458" y="0"  width="223" height="381" frameX="-374" frameY="-180" frameWidth="1000" frameHeight="1000"/>
+  <SubTexture name="speng_down0002" x="4681" y="0"  width="243" height="387" frameX="-419" frameY="-181" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Satanic_dj.png" width="5426" height="3872">
+  <SubTexture name="Satanic_ani0005" x="0" y="0"  width="525" height="694" frameX="-347" frameY="-417" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0003" x="525" y="0"  width="982" height="696" frameX="-17" frameY="-444" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00010" x="1507" y="0"  width="528" height="697" frameX="-296" frameY="-466" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0007" x="2035" y="0"  width="528" height="697" frameX="-382" frameY="-480" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0008" x="2563" y="0"  width="528" height="697" frameX="-298" frameY="-500" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0009" x="3091" y="0"  width="528" height="697" frameX="-342" frameY="-477" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0002" x="3619" y="0"  width="982" height="697" frameX="-17" frameY="-443" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0006" x="4601" y="0"  width="533" height="698" frameX="-304" frameY="-444" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0004" x="0" y="696"  width="982" height="700" frameX="-17" frameY="-440" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0005" x="982" y="697"  width="982" height="701" frameX="-17" frameY="-439" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00022" x="1964" y="697"  width="982" height="702" frameX="-17" frameY="-438" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00023" x="2946" y="697"  width="982" height="702" frameX="-17" frameY="-438" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0001" x="3928" y="698"  width="982" height="702" frameX="-17" frameY="-438" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0004" x="4910" y="698"  width="516" height="788" frameX="-254" frameY="-310" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0007" x="0" y="1396"  width="982" height="702" frameX="-17" frameY="-438" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00020" x="982" y="1398"  width="982" height="703" frameX="-17" frameY="-437" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00021" x="1964" y="1399"  width="982" height="703" frameX="-17" frameY="-437" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_dj0006" x="2946" y="1399"  width="982" height="704" frameX="-17" frameY="-436" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00019" x="3928" y="1400"  width="982" height="709" frameX="-17" frameY="-432" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00017" x="0" y="2098"  width="982" height="710" frameX="-17" frameY="-433" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00016" x="982" y="2102"  width="1006" height="709" frameX="-0" frameY="-438" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00015" x="1988" y="2103"  width="984" height="711" frameX="-14" frameY="-432" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00012" x="2972" y="2109"  width="1009" height="718" frameX="-240" frameY="-397" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00018" x="3981" y="2109"  width="982" height="721" frameX="-17" frameY="-421" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00013" x="0" y="2808"  width="977" height="764" frameX="-157" frameY="-384" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00014" x="977" y="2811"  width="1006" height="765" frameX="-0" frameY="-389" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani00011" x="1983" y="2814"  width="680" height="804" frameX="-355" frameY="-311" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0003" x="2663" y="2827"  width="640" height="896" frameX="-180" frameY="-200" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0002" x="3303" y="2830"  width="697" height="1028" frameX="-143" frameY="-74" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="Satanic_ani0001" x="4000" y="2830"  width="699" height="1042" frameX="-150" frameY="-60" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>

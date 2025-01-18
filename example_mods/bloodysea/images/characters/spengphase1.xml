@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spengphase1.png">
+<SubTexture name="spengphase1 idle0000" x="1081" y="313" width="194" height="262" frameX="-548" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0001" x="1275" y="313" width="198" height="259" frameX="-547" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0002" x="1473" y="313" width="209" height="251" frameX="-543" frameY="-180" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0003" x="1275" y="313" width="198" height="259" frameX="-547" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0004" x="1081" y="313" width="194" height="262" frameX="-548" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 left0000" x="1579" y="575" width="121" height="115" frameX="-586" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 left0001" x="1579" y="690" width="141" height="115" frameX="-561" frameY="-224" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 left0002" x="535" y="368" width="221" height="115" frameX="-462" frameY="-226" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 left0003" x="1579" y="690" width="141" height="115" frameX="-561" frameY="-224" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 left0004" x="1579" y="575" width="121" height="115" frameX="-586" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 down0000" x="1081" y="575" width="498" height="254" frameX="-404" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 down0001" x="0" y="887" width="605" height="232" frameX="-354" frameY="-230" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 down0002" x="605" y="887" width="896" height="187" frameX="-205" frameY="-341" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 down0003" x="0" y="887" width="605" height="232" frameX="-354" frameY="-230" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 down0004" x="1081" y="575" width="498" height="254" frameX="-404" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 up0000" x="176" y="0" width="220" height="470" frameX="-553" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 up0001" x="0" y="0" width="176" height="519" frameX="-575" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 up0002" x="396" y="0" width="139" height="470" frameX="-586" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 up0003" x="0" y="0" width="176" height="519" frameX="-575" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 up0004" x="176" y="0" width="220" height="470" frameX="-553" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 right0000" x="535" y="0" width="546" height="368" frameX="-524" frameY="-123" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 right0001" x="0" y="519" width="620" height="368" frameX="-588" frameY="-121" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 right0002" x="1081" y="0" width="641" height="313" frameX="-639" frameY="-174" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 right0003" x="0" y="519" width="620" height="368" frameX="-588" frameY="-121" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 right0004" x="535" y="0" width="546" height="368" frameX="-524" frameY="-123" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0005" x="1081" y="313" width="194" height="262" frameX="-548" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0006" x="1275" y="313" width="198" height="259" frameX="-547" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0007" x="1473" y="313" width="209" height="251" frameX="-543" frameY="-180" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0008" x="1275" y="313" width="198" height="259" frameX="-547" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="spengphase1 idle0009" x="1081" y="313" width="194" height="262" frameX="-548" frameY="-170" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="soulward.png" width="5465" height="2525">
+  <SubTexture name="soulward_down0001" x="0" y="0"  width="475" height="694" frameX="-411" frameY="-360" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_down0002" x="475" y="0"  width="472" height="699" frameX="-415" frameY="-355" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_down0003" x="947" y="0"  width="440" height="717" frameX="-413" frameY="-338" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0003" x="1387" y="0"  width="461" height="749" frameX="-423" frameY="-306" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_down0004" x="1848" y="0"  width="499" height="755" frameX="-358" frameY="-299" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0004" x="2347" y="0"  width="486" height="768" frameX="-399" frameY="-287" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0005" x="2833" y="0"  width="495" height="777" frameX="-374" frameY="-277" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_right0003" x="3328" y="0"  width="631" height="779" frameX="-352" frameY="-275" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_right0001" x="3959" y="0"  width="647" height="780" frameX="-325" frameY="-274" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_right0002" x="4606" y="0"  width="597" height="781" frameX="-333" frameY="-273" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0002" x="0" y="699"  width="499" height="784" frameX="-365" frameY="-270" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_down0005" x="499" y="717"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0001" x="992" y="749"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0008" x="1485" y="755"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0009" x="1978" y="768"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_left0005" x="2471" y="777"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_right0005" x="2964" y="779"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_up0005" x="3457" y="779"  width="493" height="788" frameX="-362" frameY="-266" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0006" x="3950" y="780"  width="512" height="789" frameX="-355" frameY="-265" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_idle0007" x="4462" y="781"  width="518" height="789" frameX="-353" frameY="-265" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_right0004" x="4980" y="781"  width="485" height="789" frameX="-375" frameY="-265" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_left0004" x="0" y="1483"  width="485" height="807" frameX="-355" frameY="-247" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_up0004" x="485" y="1505"  width="482" height="812" frameX="-358" frameY="-242" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_left0002" x="967" y="1543"  width="603" height="827" frameX="-237" frameY="-227" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_left0003" x="1570" y="1556"  width="619" height="830" frameX="-221" frameY="-224" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_left0001" x="2189" y="1565"  width="585" height="864" frameX="-255" frameY="-190" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_up0003" x="2774" y="1567"  width="494" height="865" frameX="-346" frameY="-189" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_up0002" x="3268" y="1567"  width="479" height="944" frameX="-361" frameY="-110" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="soulward_up0001" x="3747" y="1569"  width="466" height="956" frameX="-374" frameY="-98" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>
