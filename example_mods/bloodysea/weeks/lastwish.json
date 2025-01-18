@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"lastwish",
+			"lastwish-fp",
+			[
+				100,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lastwish",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"overstat",
+		""
+	],
+	"storyName": "One last wish",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
