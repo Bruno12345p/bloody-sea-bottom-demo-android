@@ -1,1 +1,7 @@
-
+{
+	"name": "Bloody Sea Bottom",
+	"description": "DEMO build",
+	"restart": true,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
