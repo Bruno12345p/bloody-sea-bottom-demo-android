@@ -7,39 +7,29 @@
 				0,
 				[
 					[
-						"Flash",
-						"3",
-						"0.8"
+						"Play Animation",
+						"twerking",
+						"BF"
 					]
 				]
 			],
 			[
-				100.671140939597,
+				0,
 				[
 					[
-						"Better Cinematics",
-						"0.1",
-						"140"
+						"Play Animation",
+						"twerking",
+						"BF"
 					]
 				]
 			],
 			[
-				302.013422818792,
+				11375.8389261745,
 				[
 					[
-						"Camera Zoom",
-						"1.5",
-						"0.1"
-					]
-				]
-			],
-			[
-				12382.5503355705,
-				[
-					[
-						"Better Cinematics",
-						"0.5",
-						"0"
+						"Play Animation",
+						"idle",
+						"BF"
 					]
 				]
 			],
@@ -47,279 +37,9 @@
 				12684.5637583893,
 				[
 					[
-						"Camera Zoom",
-						"1",
-						"0.3"
-					]
-				]
-			],
-			[
-				12885.9060402685,
-				[
-					[
-						"Change Scroll Speed",
-						"1.6",
-						"0.5"
-					]
-				]
-			],
-			[
-				13187.9194630872,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				13489.932885906,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				13791.9463087248,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				14093.9597315436,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				14395.9731543624,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				14697.9865771812,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				15000,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				15302.0134228188,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				15604.0268456376,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				15906.0402684564,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				16107.3825503356,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				16409.3959731544,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				16711.4093959732,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				17013.4228187919,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				17315.4362416107,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				17617.4496644295,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				17919.4630872483,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				18221.4765100671,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				18523.4899328859,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				18825.5033557047,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				19127.5167785235,
-				[
-					[
-						"Change Scroll Speed",
-						"1",
-						"0.1"
-					]
-				]
-			],
-			[
-				19429.5302013423,
-				[
-					[
-						"Change Scroll Speed",
-						"1.8",
-						"0.1"
-					]
-				]
-			],
-			[
-				64127.5167785236,
-				[
-					[
-						"Camera Zoom",
-						"1.6",
-						"0.5"
-					]
-				]
-			],
-			[
-				77013.422818792,
-				[
-					[
-						"Camera Zoom",
-						"1.4",
-						"0.5"
-					]
-				]
-			],
-			[
-				89899.3288590605,
-				[
-					[
-						"Camera Zoom",
-						"-100",
-						"0.5"
-					]
-				]
-			],
-			[
-				90201.3422818793,
-				[
-					[
-						"Camera Zoom",
-						"1.8",
-						"0.5"
+						"Play Animation",
+						"idle",
+						"BF"
 					]
 				]
 			]
@@ -3610,12 +3330,19 @@
 				"bpm": 149,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"sectionNotes": [],
+				"bpm": 149,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
 			}
 		],
 		"gfVersion": "gf",
-		"disableNoteRGB": true,
 		"song": "pineapple juice",
-		"arrowSkin": "Sea_NOTE",
 		"needsVoices": true,
 		"stage": "sponge",
 		"bpm": 149,
