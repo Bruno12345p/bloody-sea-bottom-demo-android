@@ -1,1 +1,10 @@
-
+{
+	"idle_anim": "overstat",
+	"image": "Menu_overstat",
+	"position": [
+		60,
+		-70
+	],
+	"scale": 4,
+	"confirm_anim": "overstat"
+}
