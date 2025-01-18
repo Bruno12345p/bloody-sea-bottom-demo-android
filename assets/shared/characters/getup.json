@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "sleep"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "getup",
+			"loop": false,
+			"name": "getup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/getup",
+	"position": [
+		-450,
+		-260
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-320,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

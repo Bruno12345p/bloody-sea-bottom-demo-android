@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": true,
+			"name": "Satanic_idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Satanic_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Satanic_down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Satanic_up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Satanic_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Satanic",
+	"position": [
+		-400,
+		-200
+	],
+	"healthicon": "icon-Satan",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		81,
+		221
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
