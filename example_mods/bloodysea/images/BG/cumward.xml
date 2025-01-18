@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cumward.png">
+<SubTexture name="cumward idle0000" x="0" y="411" width="147" height="282" frameX="-586" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0001" x="147" y="411" width="148" height="280" frameX="-586" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0002" x="295" y="411" width="150" height="276" frameX="-585" frameY="-192" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0003" x="147" y="411" width="148" height="280" frameX="-586" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0004" x="0" y="411" width="147" height="282" frameX="-586" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward left0000" x="726" y="225" width="244" height="224" frameX="-521" frameY="-252" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward left0001" x="726" y="449" width="250" height="224" frameX="-511" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward left0002" x="0" y="693" width="263" height="224" frameX="-487" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward left0003" x="726" y="449" width="250" height="224" frameX="-511" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward left0004" x="726" y="225" width="244" height="224" frameX="-521" frameY="-252" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward down0000" x="263" y="693" width="147" height="213" frameX="-579" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward down0001" x="410" y="693" width="159" height="198" frameX="-573" frameY="-273" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward down0002" x="993" y="0" width="212" height="179" frameX="-550" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward down0003" x="410" y="693" width="159" height="198" frameX="-573" frameY="-273" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward down0004" x="263" y="693" width="147" height="213" frameX="-579" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward up0000" x="484" y="0" width="242" height="302" frameX="-535" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward up0001" x="242" y="0" width="242" height="338" frameX="-537" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward up0002" x="0" y="0" width="242" height="411" frameX="-534" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward up0003" x="242" y="0" width="242" height="338" frameX="-537" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward up0004" x="484" y="0" width="242" height="302" frameX="-535" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward right0000" x="445" y="411" width="250" height="238" frameX="-523" frameY="-245" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward right0001" x="726" y="0" width="267" height="225" frameX="-584" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward right0002" x="569" y="693" width="306" height="193" frameX="-672" frameY="-282" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward right0003" x="726" y="0" width="267" height="225" frameX="-584" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward right0004" x="445" y="411" width="250" height="238" frameX="-523" frameY="-245" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0005" x="0" y="411" width="147" height="282" frameX="-586" frameY="-188" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0006" x="147" y="411" width="148" height="280" frameX="-586" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0007" x="295" y="411" width="150" height="276" frameX="-585" frameY="-192" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0008" x="147" y="411" width="148" height="280" frameX="-586" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cumward idle0009" x="0" y="411" width="147" height="282" frameX="-586" frameY="-188" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

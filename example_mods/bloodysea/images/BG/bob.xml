@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bob.png" width="3466" height="867">
+  <SubTexture name="bob0001" x="0" y="0"  width="725" height="829" frameX="-285" frameY="-352" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="bob0002" x="725" y="0"  width="702" height="861" frameX="-303" frameY="-320" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="bob0003" x="1427" y="0"  width="687" height="865" frameX="-314" frameY="-316" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="bob0004" x="2114" y="0"  width="676" height="867" frameX="-321" frameY="-313" frameWidth="1280" frameHeight="1280"/>
+  <SubTexture name="bob0005" x="2790" y="0"  width="676" height="867" frameX="-321" frameY="-313" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>
