@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="menu_options.png" width="2243" height="102">
+  <SubTexture name="options basic0001" x="0" y="0"  width="447" height="101" frameX="-30" frameY="-1" frameWidth="500" frameHeight="102"/>
+  <SubTexture name="options basic0002" x="447" y="0"  width="447" height="101" frameX="-30" frameY="-1" frameWidth="500" frameHeight="102"/>
+  <SubTexture name="options basic0003" x="894" y="0"  width="447" height="101" frameX="-30" frameY="-1" frameWidth="500" frameHeight="102"/>
+  <SubTexture name="options white0001" x="1341" y="0"  width="451" height="102" frameX="-28" frameY="-0" frameWidth="500" frameHeight="102"/>
+  <SubTexture name="options white0002" x="1792" y="0"  width="451" height="102" frameX="-28" frameY="-0" frameWidth="500" frameHeight="102"/>
+</TextureAtlas>
