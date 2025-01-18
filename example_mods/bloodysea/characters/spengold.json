@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				722,
+				217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				601,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				730,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				684,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				760,
+				247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Blue_gacha_sucks",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "speng-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		-1200,
+		-900
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

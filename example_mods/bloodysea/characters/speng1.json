@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				291,
+				-110
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spengphase1 left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-130
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spengphase1 down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				304,
+				-120
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spengphase1 up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-103
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spengphase1 right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-150
+			],
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "spengphase1 idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "spengphase1 idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 12,
+			"name": "spengphase1 left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 12,
+			"name": "spengphase1 right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 12,
+			"name": "spengphase1 up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spengphase1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "speng-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		86
+	],
+	"camera_position": [
+		-430,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

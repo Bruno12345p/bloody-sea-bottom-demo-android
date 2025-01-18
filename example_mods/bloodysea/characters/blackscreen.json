@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "no"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/blackscreen",
+	"position": [
+		-470,
+		20
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-310,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 5.1
+}

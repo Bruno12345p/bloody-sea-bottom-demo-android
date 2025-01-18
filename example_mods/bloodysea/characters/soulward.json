@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "soulward_idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "soulward_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "soulward_down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": true,
+			"name": "soulward_up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "soulward_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soulward",
+	"position": [
+		-450,
+		-260
+	],
+	"healthicon": "icon-soulward",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-320,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

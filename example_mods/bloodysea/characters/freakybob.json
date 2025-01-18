@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "freakybob_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "freakybob_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "freakybob_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "freakybob_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "freakybob_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freakybob",
+	"position": [
+		-340,
+		-210
+	],
+	"healthicon": "icon-freaky",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		90,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
