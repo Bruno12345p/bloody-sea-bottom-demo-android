@@ -1,0 +1,9 @@
+Fade the core UI, will not fade any images other than the core UI.
+
+Value 1: Type
+	 (0 = Fade in, 0.5 = Half, 1 = Fade out)
+	 Fade out = make it not visible
+	 Fade in = make it visible
+	 Half = half n half
+Value 2: Duration
+	 How long it takes to fade

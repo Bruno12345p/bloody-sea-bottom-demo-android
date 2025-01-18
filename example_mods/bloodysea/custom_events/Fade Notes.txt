@@ -1,0 +1,7 @@
+Fade the notes UI, will not fade any UI other than the notes UI.
+
+Value 1: Type 
+	 (0 = Fade in, 1 = Fade out)
+	 Fade out = make it not visible
+	 Fade in = make it visible
+Value 2: Duration

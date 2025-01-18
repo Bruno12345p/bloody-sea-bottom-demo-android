@@ -1,0 +1,4 @@
+Flash your screen with custom color.
+
+Value 1: Duration in seconds.
+Value 2: Flash Color (in Hexadecimal)

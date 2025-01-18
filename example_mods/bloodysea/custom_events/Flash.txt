@@ -1,0 +1,4 @@
+Flash your screen with the selected color.
+
+Value 1: Flash Color (1 = Red, 2 = White, 3 = Black)
+Value 2: Duration in seconds.
